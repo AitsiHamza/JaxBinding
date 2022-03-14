@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banque>
+    <compte code="1">
+        <solde>9000.0</solde>
+        <dateCeaction>2022-02-28T19:01:14.481+01:00</dateCeaction>
+    </compte>
+    <compte code="2">
+        <solde>6000.0</solde>
+        <dateCeaction>2022-02-28T19:01:14.481+01:00</dateCeaction>
+    </compte>
+    <compte code="3">
+        <solde>10000.0</solde>
+        <dateCeaction>2022-02-28T19:01:14.481+01:00</dateCeaction>
+    </compte>
+</banque>
